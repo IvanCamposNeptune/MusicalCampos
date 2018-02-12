@@ -1,0 +1,20 @@
+@font-face{
+font-family:AgengSans;
+src:url(Font/agengsans.ttf);
+}
+
+h1{
+	font-family:AgengSans;
+}
+
+p{
+	font-family:AgengSans;
+}
+
+h3{
+	font-family:AgengSans;
+}
+
+h4{
+	font-family:AgengSans;
+}
